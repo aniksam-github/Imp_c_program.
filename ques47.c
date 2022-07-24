@@ -1,0 +1,1 @@
+// program to demonstrate fputs() and fgets().
